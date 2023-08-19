@@ -4,19 +4,13 @@
   
   
   <entry>
-    <title>站点公告</title>
-    <link href="/blog/2023/08/10/welcome/"/>
-    <url>/blog/2023/08/10/welcome/</url>
+    <title>占位</title>
+    <link href="/2023/08/19/20230819/"/>
+    <url>/2023/08/19/20230819/</url>
     
-    <content type="html"><![CDATA[<h1 id="2023-8-10"><a href="#2023-8-10" class="headerlink" title="2023&#x2F;8&#x2F;10"></a>2023&#x2F;8&#x2F;10</h1><p>博客正在重建，此期间不会有内容更新</p>]]></content>
+    <content type="html"><![CDATA[<p>此文章用于占位，避免访问本站出现404的情况</p>]]></content>
     
     
-    
-    <tags>
-      
-      <tag>公告</tag>
-      
-    </tags>
     
   </entry>
   
