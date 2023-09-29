@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://stars7433.github.io/2023/08/19/20230819/</loc>
+    <loc>http://stars7433.github.io/2023/09/29/20230929/</loc>
     
-    <lastmod>2023-08-19</lastmod>
+    <lastmod>2023-09-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://stars7433.github.io/about/index.html</loc>
+    
+    <lastmod>2023-09-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19,24 +28,29 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://stars7433.github.io/about/index.html</loc>
-    
-    <lastmod>2023-08-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://stars7433.github.io/</loc>
-    <lastmod>2023-08-21</lastmod>
+    <lastmod>2023-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>http://stars7433.github.io/tags/%E4%BF%AE%E6%94%B9%E7%89%88%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2023-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://stars7433.github.io/categories/%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83/</loc>
+    <lastmod>2023-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
